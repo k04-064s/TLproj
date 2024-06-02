@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+	"-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+	"http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+
+	<!-- Pages -->
+	<definition name="home" extends="mainTemplate">
+		<put-attribute name="title" value="Home" />
+		<put-attribute name="content" value="/WEB-INF/views/content/home.jsp" />
+	</definition>
+	
+	<definition name="bills" extends="mainTemplate">
+		<put-attribute name="title" value="Bills" />
+		<put-attribute name="content" value="/WEB-INF/views/content/bills.jsp" />
+	</definition>
+
+	<definition name="offers" extends="mainTemplate">
+		<put-attribute name="title" value="Offers" />
+		<put-attribute name="content" value="/WEB-INF/views/content/offers.jsp" />
+	</definition>
+	
+	<definition name="reports" extends="mainTemplate">
+		<put-attribute name="title" value="Reports" />
+		<put-attribute name="content" value="/WEB-INF/views/content/reports.jsp" />
+	</definition>
+	
+	<definition name="votes" extends="mainTemplate">
+		<put-attribute name="title" value="Votes" />
+		<put-attribute name="content" value="/WEB-INF/views/content/votes.jsp" />
+	</definition>
+	
+	<definition name="announcements" extends="mainTemplate">
+		<put-attribute name="title" value="Announcements" />
+		<put-attribute name="content" value="/WEB-INF/views/content/announcements.jsp" />
+	</definition>
+
+	<definition name="login" extends="mainTemplate">
+		<put-attribute name="title" value="Login" />
+		<put-attribute name="content" value="/WEB-INF/views/content/login.jsp" />
+	</definition>
+		
+</tiles-definitions>
