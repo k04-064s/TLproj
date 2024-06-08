@@ -1,6 +1,0 @@
-ΤΕχνολογια λογισμικου ειναι ο επιστημονικος κλαδος που θεωρει οτι η αναπτυξη λογισμικου ειναι κατι πολυ περισσοτερο απο τη συγγραφη κωδικα
-περιλα,βανει τη διαχειριση ομαδας εργου τις επαφες με τον πελατη και τον καθορισμο των ανακων του αλλα και των μη λειτουργικων προδιαγραφων την αναλυσητων απαιτησεων, τη σχεδιαση του προιοντος(αρχιτεκτονικη συστηματος σχεδιαση λογισμικου, σχεδιαση διεπαφων χρηστη)τον ελεγχο συστηματος και τη διορθωση των λαθων και τη συντηρηση του συστηματος
-
-software engineering is the application of a systematic disciplined quantifable approach to the design development operation and maintenance of software and the study of these approaches that is the application of engineering to software
-
-method of software technology is named a qualified approach of software development that is aiming in facilitation of software production in high qualityin a way financial efficient.
